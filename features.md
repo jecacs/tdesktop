@@ -19,7 +19,7 @@
 15. Show message ID in tooltip/message box
 16. ~~Gif Shared Media section~~
 17. Don't share my phone number when add someone to contacts
-18. Multiple accounts up to __10__
+18. Multiple accounts up to __200__
 19. Support multiple chat forward
 20. Support Forward Message without quote
 21. Quick Forward to Saved Messages

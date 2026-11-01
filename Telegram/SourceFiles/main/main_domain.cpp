@@ -523,7 +523,7 @@ int Domain::maxAccounts() const {
 	//			|| d.account->session().isTestMode());
 	//});
 	//return std::min(int(premiumCount) + kMaxAccounts, kPremiumMaxAccounts);
-	return 100;
+	return kMaxAccounts;
 }
 
 rpl::producer<int> Domain::maxAccountsChanges() const {
